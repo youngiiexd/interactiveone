@@ -497,6 +497,20 @@ line-height: 60px;
 text-align: center;
 }
 
+#credit {
+position: absolute;
+left: 640px;
+top: 730px;
+font-family: 'Share Tech Mono', sans-serif;
+font-style: italic; 
+font-variant: cross out;
+font-size: 15px;
+color: #ffffff;
+line-height: 45px;
+z-index: 99999999999999999;
+text-align: center;
+}
+
 a:link {
 	color: #ffffff;
 	text-decoration: none;
